@@ -45,6 +45,8 @@
 <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khoa-da&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Activities:
 
 
