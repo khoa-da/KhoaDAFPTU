@@ -47,6 +47,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khoa-da&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Khoa Da's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khoa-da&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Activities:
 
 
