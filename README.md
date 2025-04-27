@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Do Anh Khoa</h1>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
-</p>
+
 
 
 - ✍ I'm a student of: [FPT University ](https://fpt.edu.vn) (FPTU).
