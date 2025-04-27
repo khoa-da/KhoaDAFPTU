@@ -3,10 +3,6 @@
 
 
 
-- ✍ I'm a student of: [FPT University ](https://fpt.edu.vn) (FPTU).
-
-- 🌱 I’m currently learning 
-
 <br />
 
 ## 📫 How to reach me:
